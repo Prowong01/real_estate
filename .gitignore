@@ -9,10 +9,10 @@ dist/
 **/.next/
 
 # Environment files
-.env
-.env.*∂
-**/.env
-**/.env.*
+# .env
+# .env.*∂
+# **/.env
+# **/.env.*
 
 # OS files
 .DS_Store
